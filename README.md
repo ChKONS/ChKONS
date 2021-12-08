@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChKONS
-- 👀 I’m interested in Front-End developing 
+- 👀 I’m interested in Front-End Development 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/christelle-utt/
